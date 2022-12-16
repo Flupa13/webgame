@@ -117,10 +117,14 @@ body {
   font-size: xx-large;
   color: #f8f8f8;
   font-weight: lighter;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .score {
   transform: translate(390px, 350px);
   font-size: x-large;
   color: #f8f8f8;
   font-weight: lighter;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
